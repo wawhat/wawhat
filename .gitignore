@@ -1,0 +1,7 @@
+stacktrace.log
+test/reports/**
+.DS_Store
+nohup.out
+target/**
+/web-app/WEB-INF/classes
+logs/**
